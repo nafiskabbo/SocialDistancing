@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538870148333",
+    "firebase_url": "https://covid19socialdistancing-432af.firebaseio.com",
+    "project_id": "covid19socialdistancing-432af",
+    "storage_bucket": "covid19socialdistancing-432af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538870148333:android:8cf48bafb912c118c9f0e4",
+        "android_client_info": {
+          "package_name": "com.kabbo.covid19.socialdistancing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538870148333-9043hc5rj0barbm94m4hi27v5p6ihjfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFCQqfJwTyXwgAz9PbTUoZg5AAijvFOUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538870148333-9043hc5rj0barbm94m4hi27v5p6ihjfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
