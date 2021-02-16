@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Social Distancing</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="working_process">It works using your phone\'s bluetooth signal to calculate distance with other devices. It works to alert you if distance is critical! For this, the app needs to use your device\'s bluetooth and location service.\n\nMust follow the following rules :\n1. Don\'t change your name in bluetooth.\n2. Grant the permissions of Bluetooth, GPS, Location Services.\n3.The app will vibrate when a user comes near you.\nThanks for using our app!</string>
 </resources>
