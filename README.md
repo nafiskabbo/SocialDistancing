@@ -16,3 +16,5 @@ Must follow the following rules :
 3. The app will vibrate when a user comes near you.
 
 Thanks for using our app!
+
+![App Details - Resized (Custom)](https://github.com/user-attachments/assets/17c17080-e8c4-4125-b204-cadd06199a66)
